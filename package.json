@@ -24,7 +24,13 @@
     "CHANGELOG.md",
     "src",
     "dist",
-    "types/index.d.ts"
+    "build",
+    "types/index.d.ts",
+    "bower.json",
+    "package.json",
+    "webpack.build.js",
+    "webpack.build.min.js",
+    "webpack.config.js"
   ],
   "keywords": [
     "vue",
